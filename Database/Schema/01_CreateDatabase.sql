@@ -1,0 +1,35 @@
+-- ============================================
+-- Cinema Booking System Database Schema
+-- Generated from SQL Server Management Studio
+-- ============================================
+-- This script creates the complete database schema
+-- 
+-- Tables:
+-- - CUSTOMER
+-- - HALL
+-- - SEAT
+-- - SEAT_TYPE_VALUE
+-- - MOVIE_GENRE
+-- - BOOKING
+-- - PAYMENT
+-- - TICKET
+-- - RESERVATION
+--
+-- Functions:
+-- - fn_GetMoviesByCinema
+-- - fn_GetCustomerBookingDetails
+--
+-- Stored Procedures:
+-- - sp_MakeBooking
+-- - sp_CancelBooking
+-- - sp_ConfirmPayment
+-- - sp_GetAllMovies
+-- - sp_GetAvailableSeats
+-- - sp_GetMoviesByGenre
+-- - sp_GetShowtimesByMovie
+-- - sp_GetMyBookings
+-- - sp_GetMyTickets
+--
+-- ============================================
+-- PASTE YOUR EXPORTED SQL SCRIPT HERE
+-- ============================================
